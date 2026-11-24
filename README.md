@@ -6,12 +6,12 @@ the facilitator projects it while learners scan a QR code and work every
 exercise on their own devices, or share the link for self-paced review.
 
 Part of the Vanderbilt Learning Series, in the FLH visual system, alongside
-[AI Basics](https://me5231979.github.io/AI_Classroom/) and
-[Navigating Difficult Conversations](https://me5231979.github.io/Difficult_Conversations/).
-Catalog: [Course Library](https://me5231979.github.io/Course_Library/).
+[AI Basics](https://futureslearninghub.github.io/AI_Classroom/) and
+[Navigating Difficult Conversations](https://futureslearninghub.github.io/Difficult_Conversations/).
+Catalog: [Course Library](https://flh-learning-library.vercel.app/).
 
-- **Learner edition:** https://me5231979.github.io/Coaching-for-Performance/
-- **Facilitator edition:** https://me5231979.github.io/Coaching-for-Performance/facilitator/
+- **Learner edition:** https://futureslearninghub.github.io/Coaching-for-Performance/
+- **Facilitator edition:** https://futureslearninghub.github.io/Coaching-for-Performance/facilitator/
 
 ## Running it
 

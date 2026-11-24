@@ -1,13 +1,13 @@
 # Coaching for Performance — Vanderbilt Learning Series
 
 Single-page interactive classroom experience (Learning on Demand). Live at
-https://me5231979.github.io/Coaching-for-Performance/ (GitHub Pages, served
+https://futureslearninghub.github.io/Coaching-for-Performance/ (GitHub Pages, served
 from `gh-pages` — publish with
 `git branch -f gh-pages main && git push -f origin gh-pages`).
 
-Sister programs: AI Basics (me5231979/AI_Classroom), Navigating Difficult
-Conversations (me5231979/Difficult_Conversations), catalog at
-me5231979/Course_Library. Same engine, same standing principles.
+Sister programs: AI Basics (FuturesLearningHub/AI_Classroom), Navigating Difficult
+Conversations (FuturesLearningHub/Difficult_Conversations), catalog at
+FuturesLearningHub/FLH-Learning-Library-. Same engine, same standing principles.
 
 ## Standing design principles (do not regress these)
 
